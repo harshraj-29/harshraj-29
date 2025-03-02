@@ -1,4 +1,4 @@
-<h1 align="center"> ---- HELLO, I am Ashutosh <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" height="35px"> ----</h1>
+<h1 align="center"> ---- HELLO, I am Harsh Raj Choudhary----</h1>
 
 <div align="center">
 <h3>Let's collaborate</h3>
